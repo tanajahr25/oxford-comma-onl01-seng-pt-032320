@@ -1,4 +1,4 @@
 def oxford_comma(kiwi)
-elements = []
+elements = kiwi
 # ["fiddleheads","okra","kohlrabi"].join ("and")
 end
