@@ -1,4 +1,4 @@
 def oxford_comma(array)
 elements = []
-.split (" , ")
+["fiddleheads","okra","kohlrabi"].split (" , ")
 end
